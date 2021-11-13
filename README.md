@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karan00034
+- 👋 Hi, I’m karan bhardwaj
 - 👀 I’m interested in learning more about machine learning daily
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on machine learning based projects
