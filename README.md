@@ -7,6 +7,6 @@ I am currently pursuing a Bachelor of Computer Applications at the Chandigarh Gr
 
 🌟 Let's Connect:
 
-LinkedIn : ![LinkedIn](https://www.linkedin.com/in/karanbhardwaj2901/)
+LinkedIn : [LinkedIn](https://www.linkedin.com/in/karanbhardwaj2901/)
 
 📬 Whether you're seeking guidance on MERN stack development, interested in collaborating on exciting projects, or simply want to discuss the latest tech trends, I'm always eager to connect and engage with fellow developers. Don't hesitate to reach out—I'm here to help, inspire, and grow together!.
