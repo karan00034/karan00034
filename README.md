@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" alt="coding gif" width="400" align="right">
+<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif" alt="coding gif" width="400" align="right"> 
 
 
 - 🔭 I’m currently working on **collaborative editor**
